@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>SnapTik - Tải Video TikTok Không Logo, Full HD, Miễn Phí</title>
+    <title>KDTIK - Tải Video TikTok Không Logo, Full HD, Miễn Phí</title>
     <meta name="robots" content="index, follow" />
     <meta name="revisit-after" content="1 days" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5, shrink-to-fit=no" />
     <meta name="color-scheme" content="dark light">
-    <meta itemprop="name" content="SnapTik - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
-    <meta name="description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với SnapTik trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
+    <meta itemprop="name" content="KDTIK - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
+    <meta name="description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với KDTIK trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
     <meta name="author" content="Admin" />
     <meta itemprop="image" content="static/snapthumb.jpg">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="SnapTik - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
-    <meta name="twitter:description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với SnapTik trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
+    <meta name="twitter:title" content="KDTIK - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
+    <meta name="twitter:description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với KDTIK trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
     <meta name="twitter:image:src" content="static/snapthumb.jpg">
-    <meta name="twitter:site" content="Snaptik.App">
-    <meta property="og:title" content="SnapTik - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
+    <meta name="twitter:site" content="Kdtik.App">
+    <meta property="og:title" content="KDTIK - Tải Video TikTok Không Logo, Full HD, Miễn Phí">
     <meta property="og:type" content="article">
     <meta property="og:image" content="static/snapthumb.jpg">
-    <meta property="og:description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với SnapTik trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
+    <meta property="og:description" content="Công cụ tải video TikTok miễn phí, không có logo, chất lượng HD. Download video TikTok với KDTIK trên mọi thiết bị máy tính, điện thoại iOS, Android. ">
     <link rel="apple-touch-icon" sizes="192x192" href="static/icons-192.png">
     <link rel="shortcut icon" href="static/svg/favicon.png" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -281,11 +281,11 @@
         <div class="container">
             <div class="navbar-brand">
                 <div class="navbar-item logo">
-                    <a href="index.php" class="fs24 fw700" title="">Snap<span>Tik</span></a>
+                    <a href="index.php" class="fs24 fw700" title="">KD<span>TIK</span></a>
                 </div>
-                <div role="button" class="navbar-burger" aria-label="Menu" data-target="snaptik-menu"><span></span><span></span><span></span></div>
+                <div role="button" class="navbar-burger" aria-label="Menu" data-target="kdtik-menu"><span></span><span></span><span></span></div>
             </div>
-            <div id="snaptik-menu" class="navbar-menu transition-all">
+            <div id="kdtik-menu" class="navbar-menu transition-all">
                 <div class="navbar-start"></div>
                 <div class="navbar-end">
                     <a href="index.php" class="navbar-item active">TikTok</a>
@@ -309,52 +309,52 @@
                     <button class="button button-paste transition-all" type="button" onclick="pasteUrl()"><i class="icon icon-paste"></i><span>Dán</span></button>
                 </div>
                 <button type="submit" aria-label="Get" class="button button-go is-link transition-all"><i class="icon icon-down"></i>Download</button>
-                <div class="get-loader flex-center transition-all"><span class="snaptik-loader"></span></div>
+                <div class="get-loader flex-center transition-all"><span class="kdtik-loader"></span></div>
             </form>
         </div>
     </section>
     <section id="main" class="section">
         <div class="container">
-            <div class="alert-snaptik mb-3" role="alert">
+            <div class="alert-kdtik mb-3" role="alert">
             <b>Lưu ý:</b> Đảm bảo liên kết video Tiktok ở chế độ công khai để tải thành công.
             </div>
             <div id="download" class="download"></div>
             <div class="contents">
                 <h3 class="title f14">Tải Video TikTok Không Dính Logo Và ID</h3>
-                <p>SnapTik.Com là công cụ giúp download video TikTok mà không lo bị dính logo và id của người dùng TikTok trong video tải về máy. Điều đặc biệt, bạn không cần phải cài đặt bất kỳ ứng dụng, phần mềm hay tiện ích mở rộng gì để sử dụng SnapTik.
+                <p>KDTIK.Com là công cụ giúp download video TikTok mà không lo bị dính logo và id của người dùng TikTok trong video tải về máy. Điều đặc biệt, bạn không cần phải cài đặt bất kỳ ứng dụng, phần mềm hay tiện ích mở rộng gì để sử dụng KDTIK.
                     Công cụ hoạt động online, hoàn toàn miễn phí. </p>
 
-                <h3 class="subtitle f14 mb-3">Các tính năng của SnapTik Download video Tiktok</h3>
-                <p class="mb-3"><b>Tải Video Tiktok không logo:</b> SnapTik là website chuyên hỗ trợ <a href="#">tải video TikTok</a> không logo, watermark, ID; dễ dàng có được video nguyên bản để lưu trữ, tái sử dụng.</p>
-                <p class="mb-3"><b>Lưu video Tiktok về máy với chất lượng HD:</b> Các video lưu từ Tiktok về máy trên SnapTik.App luôn ở chất lượng cao Full HD, HD, nét như bản gốc. </p>
+                <h3 class="subtitle f14 mb-3">Các tính năng của KDTIK Download video Tiktok</h3>
+                <p class="mb-3"><b>Tải Video Tiktok không logo:</b> KDTIK là website chuyên hỗ trợ <a href="#">tải video TikTok</a> không logo, watermark, ID; dễ dàng có được video nguyên bản để lưu trữ, tái sử dụng.</p>
+                <p class="mb-3"><b>Lưu video Tiktok về máy với chất lượng HD:</b> Các video lưu từ Tiktok về máy trên KDTIK.App luôn ở chất lượng cao Full HD, HD, nét như bản gốc. </p>
                 <p class="mb-3"><b>Hỗ trợ lưu video Tik tok ở các định dạng .mp4:</b> Định dạng khi tải video về máy là mp4. Bạn có thể lưu chúng ở định dạng video và sau đó chuyển đổi thành định dạng audio .mp3, dễ dàng lưu trữ các âm thanh, đoạn nhạc trên TikTok về
                     máy</p>
-                <p class="mb-3"><b>Hoạt động trên mọi thiết bị:</b> Trong khi Tiktok chỉ hỗ trợ người dùng tải video trên ứng dụng di động, với SnapTik bạn có thể lưu các clip TikTok trên bất kỳ thiết bị nào, bao gồm điện thoại iphone (iOS), Samsung, Xiaomi (Android),
+                <p class="mb-3"><b>Hoạt động trên mọi thiết bị:</b> Trong khi Tiktok chỉ hỗ trợ người dùng tải video trên ứng dụng di động, với KDTIK bạn có thể lưu các clip TikTok trên bất kỳ thiết bị nào, bao gồm điện thoại iphone (iOS), Samsung, Xiaomi (Android),
                     trên máy tính (PC).</p>
-                <p class="mb-3"><b>Tiktok video downloader miễn phí:</b> Công cụ SnapTik.App hoàn toàn miễn phí, không yêu cầu đăng nhập và không cần trả phí. </p>
+                <p class="mb-3"><b>Tiktok video downloader miễn phí:</b> Công cụ KDTIK.App hoàn toàn miễn phí, không yêu cầu đăng nhập và không cần trả phí. </p>
 
                 <h3 class="title f14">Cách tải video tik tok không dính logo</h3>
                 <p class="mb-3 mt-3"><span class="step-guide">Bước 1:</span> <kbd>Copy</kbd> đường dẫn của video TikTok muốn tải về (Bấm biểu tượng share, chọn copy liên kết)</p>
-                <p class="mb-3"><span class="step-guide">Bước 2:</span> <kbd>Mở SnapTik</kbd> bằng bất cứ trình duyệt web nào chrome/firefox/Safari trên các thiết bị thông minh </p>
+                <p class="mb-3"><span class="step-guide">Bước 2:</span> <kbd>Mở KDTIK</kbd> bằng bất cứ trình duyệt web nào chrome/firefox/Safari trên các thiết bị thông minh </p>
                 <p class="mb-3"><span class="step-guide">Bước 3:</span> <kbd>Dán</kbd> đường link video vào ô công cụ và nhấn nút <kbd>Tải về</kbd></p>
                 <p class="mb-3"><span class="step-guide">Bước 4:</span> Tiếp tục ấn nút <kbd>download</kbd> dưới hoặc bên cạnh video hiện trên màn hình để tải về máy</p>
 
                 <div class="accordion" id="faq" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
                         <button class="button is-info btn-accordion">
-                            <h3 class="accordion-title" itemprop="name">Có an toàn để tải video TikTok trên SnapTik.Com không?</h3>
+                            <h3 class="accordion-title" itemprop="name">Có an toàn để tải video TikTok trên KDTIK.Com không?</h3>
                             <span class="icon arrow"></span>
                         </button>
                         <div class="accordion-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
                             <div class="accordion-text" itemprop="text">
-                                Có, tải video TikTok ở đây rất an toàn. Người dùng không cần cung cấp bất kỳ thông tin gì ngoài đường link của video TikTok. SnapTik.Com được xây dựng trên nền tảng web nên sẽ không có virus hay phần mềm độc hại. Đọc thêm về chính sách riêng tư để biết
+                                Có, tải video TikTok ở đây rất an toàn. Người dùng không cần cung cấp bất kỳ thông tin gì ngoài đường link của video TikTok. KDTIK.Com được xây dựng trên nền tảng web nên sẽ không có virus hay phần mềm độc hại. Đọc thêm về chính sách riêng tư để biết
                                 thêm về các thông tin chúng tôi thu thập và sử dụng.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
                         <button class="button is-info btn-accordion">
-                            <h3 class="accordion-title" itemprop="name">SnapTik có lưu trữ video của người dùng khi tải không?</h3>
+                            <h3 class="accordion-title" itemprop="name">KDTIK có lưu trữ video của người dùng khi tải không?</h3>
                             <span class="icon arrow"></span>
                         </button>
                         <div class="accordion-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
@@ -365,7 +365,7 @@
                     </div>
                     <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
                         <button class="button is-info btn-accordion">
-                            <h3 class="accordion-title" itemprop="name">Các video Tik Tok tải về qua SnapTik được lưu ở đâu?</h3>
+                            <h3 class="accordion-title" itemprop="name">Các video Tik Tok tải về qua KDTIK được lưu ở đâu?</h3>
                             <span class="icon arrow"></span>
                         </button>
                         <div class="accordion-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
@@ -387,12 +387,12 @@
                     </div>
                     <div class="accordion-item" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
                         <button class="button is-info btn-accordion">
-                            <h3 class="accordion-title" itemprop="name">SnapTik có hạn chế số lần tải không?</h3>
+                            <h3 class="accordion-title" itemprop="name">KDTIK có hạn chế số lần tải không?</h3>
                             <span class="icon arrow"></span>
                         </button>
                         <div class="accordion-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
                             <div class="accordion-text" itemprop="text">
-                                Không. Bạn có thể tải bao nhiêu video TikTok tuỳ ý. SnapTik không hạn chế số lần tải về trong ngày.
+                                Không. Bạn có thể tải bao nhiêu video TikTok tuỳ ý. KDTIK không hạn chế số lần tải về trong ngày.
                             </div>
                         </div>
                     </div>
@@ -403,13 +403,13 @@
                         </button>
                         <div class="accordion-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
                             <div class="accordion-text" itemprop="text">
-                                Không. SnapTik chưa hỗ trợ tải nhiều video cùng lúc.
+                                Không. KDTIK chưa hỗ trợ tải nhiều video cùng lúc.
                             </div>
                         </div>
                     </div>
                 </div>
-                <p class="mb-3"><b>Lưu ý:</b> vn.snaptik.com hay snaptik.com không phải là một công cụ của Tiktok, chúng tôi không có mối quan hệ nào với Tiktok hay ByteDance Ltd. Chúng tôi chỉ hỗ trợ người dùng Tiktok tải xuống video trên Tiktok không có logo với mục
-                    đích chính đáng. Chúng tôi không chịu trách nhiệm với việc người dùng sử dụng nội dung tải về như thế nào. Nếu bạn gặp sự cố với các trang như Tikmate hoặc SSSTiktok, hãy thử SnapTik, chúng tôi liên tục cải tiến công cụ để giúp người
+                <p class="mb-3"><b>Lưu ý:</b> vn.kdtik.com hay kdtik.com không phải là một công cụ của Tiktok, chúng tôi không có mối quan hệ nào với Tiktok hay ByteDance Ltd. Chúng tôi chỉ hỗ trợ người dùng Tiktok tải xuống video trên Tiktok không có logo với mục
+                    đích chính đáng. Chúng tôi không chịu trách nhiệm với việc người dùng sử dụng nội dung tải về như thế nào. Nếu bạn gặp sự cố với các trang như Tikmate hoặc SSSTiktok, hãy thử KDTIK, chúng tôi liên tục cải tiến công cụ để giúp người
                     dùng tải xuống video tiktok dễ dàng. Không sử dụng các video TikTok cho mục đích thương mại, kiếm tiền khi không được sự cho phép.</p>
             </div>
         </div>
@@ -447,7 +447,7 @@
             </div>
         </section>
         <div class="container">
-            <div class="copyright"><span>© 2019 - 2023 SnapTik - <a href="/">TikTok Video Download</a> Version 18.4</span></div>
+            <div class="copyright"><span>© 2019 - 2026 KDTIK - <a href="/">TikTok Video Download</a> Version 18.4</span></div>
         </div>
     </footer>
 
@@ -494,7 +494,7 @@
                                         </div>
                                         <div class="content">
                                             <h3>${title}</h3>
-                                        </div//vn.snaptik.com/iv>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="tik-right">
@@ -573,7 +573,7 @@
             }
         }
         document.querySelector('.navbar-burger').addEventListener('click', function() {
-            document.querySelector('#snaptik-menu').classList.toggle('is-active');
+            document.querySelector('#kdtik-menu').classList.toggle('is-active');
         });
     </script>
 </body>
